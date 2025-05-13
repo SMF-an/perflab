@@ -1,2 +1,0 @@
-scp -O -r -P 4000 stu23307130075@10.154.6scp -O -r -P 4000 D:\code\cpp\ICS_Homework\perflab\perflab-handout\kernels.c stu23307130075@10.154.63.28:~/perflab3.28:~/perflab D:\code\cpp\ICS_Homework
-scp -O -r -P 4000 D:\code\cpp\ICS_Homework\perflab\perflab-handout\kernels.c stu23307130075@10.154.63.28:~/perflab
